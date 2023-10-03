@@ -1,2 +1,2 @@
 # Image_Classification
-Build a Neural Network to classify images. 
+Neural Network to classify images. 
